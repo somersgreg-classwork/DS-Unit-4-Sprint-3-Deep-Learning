@@ -1,0 +1,17 @@
+Using pip 22.0.4 from /home/greg/.local/lib/python3.8/site-packages/pip (python 3.8)
+Defaulting to user installation because normal site-packages is not writeable
+Collecting pandas
+  Using cached pandas-1.4.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (11.7 MB)
+Collecting pytz>=2020.1
+  Using cached pytz-2022.1-py2.py3-none-any.whl (503 kB)
+Collecting numpy>=1.18.5
+  Using cached numpy-1.22.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (16.8 MB)
+Collecting python-dateutil>=2.8.1
+  Using cached python_dateutil-2.8.2-py2.py3-none-any.whl (247 kB)
+Collecting six>=1.5
+  Using cached six-1.16.0-py2.py3-none-any.whl (11 kB)
+Installing collected packages: pytz, six, numpy, python-dateutil, pandas
+  changing mode of /home/greg/.local/bin/f2py to 755
+  changing mode of /home/greg/.local/bin/f2py3 to 755
+  changing mode of /home/greg/.local/bin/f2py3.8 to 755
+Successfully installed numpy-1.22.3 pandas-1.4.2 python-dateutil-2.8.2 pytz-2022.1 six-1.16.0
